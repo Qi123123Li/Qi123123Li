@@ -1,8 +1,8 @@
 ### Hi there 👋
-
-Languages: Java, C, SQL, Javascript, PHP, Python, HTML, CSS, Matlab, R
-Technologies/Frameworks: Git, Nodejs, React, Vue, Spring boot, Laravel, debugger, Mysql, Mongodb, REST APIs, Jira, Clickup,  Maven, Docker, Numpy, Pandas
-
+My name is Qi Li. I'm a student in University of Toronto Scarborough  
+Languages: Java, C, SQL, Javascript, PHP, Python, HTML, CSS, Matlab, R  
+Technologies/Frameworks: Git, Nodejs, React, Vue, Spring boot, Laravel, debugger, Mysql, Mongodb, REST APIs, Jira, Clickup,  Maven, Docker, Numpy, Pandas  
+my linkedin: https://www.linkedin.com/in/qi-li-9649591ba/
 <!--
 **Qi123123Li/Qi123123Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
