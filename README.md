@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Languages: Java, C, SQL, Javascript, PHP, Python, HTML, CSS, Matlab, R
+Technologies/Frameworks: Git, Nodejs, React, Vue, Spring boot, Laravel, debugger, Mysql, Mongodb, REST APIs, Jira, Clickup,  Maven, Docker, Numpy, Pandas
+
 <!--
 **Qi123123Li/Qi123123Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
