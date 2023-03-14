@@ -2,7 +2,7 @@
 My name is Qi Li. I'm a student in University of Toronto Scarborough  
 Languages: Java, C, SQL, Javascript, PHP, Python, HTML, CSS, Matlab, R  
 Technologies/Frameworks: Git, Nodejs, React, Vue, Spring boot, Laravel, debugger, Mysql, Mongodb, REST APIs, Jira, Clickup,  Maven, Docker, Numpy, Pandas  
-my linkedin: https://www.linkedin.com/in/qi-li-9649591ba/
+my linkedin: https://www.linkedin.com/in/qi-li-9649591ba/  
 my resume: https://docs.google.com/document/d/1qHFI_2rM0ODR_QWR0kbXdRSz1c8fdj9F/edit?usp=sharing&ouid=102758161573247483082&rtpof=true&sd=true
 <!--
 **Qi123123Li/Qi123123Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
